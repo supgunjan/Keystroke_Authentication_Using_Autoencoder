@@ -12,8 +12,8 @@ Our dataset generation is unique for each individual user. Each original user ha
 typing pattern of original user from others.
 Dataset consists of 2 features , flight time and hold time.If length of password is n , then dimensions of the dataset will be 2n-1.We can use capital letters and all types of special characters.
 
-# Results
-In the results , I have shown Training and Testing Accuracies of different models with and without Autoencoder .
+# Result
+In the result , I have shown Training and Testing Accuracies of different models with and without Autoencoder .
 
 Let's now install the Hardware and Software part of project.
 
