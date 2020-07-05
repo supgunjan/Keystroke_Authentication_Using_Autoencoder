@@ -26,18 +26,18 @@ Let's now install the Hardware and Software part of project.
 1. Jupyter notebook
 2. Linux Operating system(For data generation)
 
-## Installation
+# Installation
 
-# Python libraries:
+## Python libraries:
 * Tensorflow
 * Keras
 * Sklearn
 
-# Data Generation Library:
+## Data Generation Library:
 * Pyxhook - A library that allows you to listen for keyboard events on Linux.
 
 
-## Running the project
+# Running the project
 
 1. Clone the repository.
 2. Go to data_gen folder and run datagen.py as follows:
