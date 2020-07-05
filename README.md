@@ -23,8 +23,8 @@ Let's now install the Hardware and Software part of project.
 
 ## Software requirements
 
-1.Jupyter notebook
-2.Linux Operating system(For data generation)
+1. Jupyter notebook
+2. Linux Operating system(For data generation)
 
 ## Installation
 
@@ -39,8 +39,8 @@ Let's now install the Hardware and Software part of project.
 
 ## Running the project
 
-1.Clone the repository.
-2.Go to data_gen folder and run datagen.py as follows:
+1. Clone the repository.
+2. Go to data_gen folder and run datagen.py as follows:
 
 N = Number of times you want to write the password in 1 go.
 dataset_name = Name of the csv file which will bw generated for the original user.
@@ -55,8 +55,8 @@ Note-Length of the password should be of length 9 .
 Password can contain lower case letters, upper case letters , numbers and special characters as well.
 For upper case use shift key rather than capslock.
 
-3.Copy this dataset generated in the folder "model" inside "keystroke_dy" folder.
-4.To generate weights  run the file model.py in the folder "model".
+3. Copy this dataset generated in the folder "model" inside "keystroke_dy" folder.
+4. To generate weights  run the file model.py in the folder "model".
 
 
 For details refer [here](http://www.journaleca.com/gallery/jeca-2129.04-f.pdf).
