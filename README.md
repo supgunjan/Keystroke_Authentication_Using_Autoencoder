@@ -5,7 +5,7 @@ It deals with recording  the speed at which a user  type, the latency in his  ke
 
 The combination of username and password have been used for security since very long time for all kinds of data and services online, including  to emails, banking, and gaming services etc .But it’s been proved a lot many times that this kind of security doesn’t really work well. If an intruder is able to crack passwords then very easily he will be able to enter the system and access it. 
 
-In this Research Project ,I have combined Autoencoder with SVM and PCA as an oddity detection strategy with other different models like ,logistic regression,Random Forest Classifier, Decision Tree Classifier etc
+In this Research Project ,I have combined Autoencoder with SVM and PCA as an oddity detection strategy with other different models like , logistic regression , Random Forest Classifier , Decision Tree Classifier etc
 
 # Data Acquisition
 Our dataset generation is unique for each individual user. Each original user has  his own dataset, which will contain his password written many times by different users including himself(valid user) as well as other users who are not valid(imposters).This will enable our model to differentiate the
